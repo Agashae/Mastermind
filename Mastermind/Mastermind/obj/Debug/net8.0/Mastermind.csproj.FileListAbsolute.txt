@@ -1,0 +1,15 @@
+C:\Users\Agashae Premakumar\Documents\GitHub\Mastermind\Mastermind\Mastermind\bin\Debug\net8.0\Mastermind.exe
+C:\Users\Agashae Premakumar\Documents\GitHub\Mastermind\Mastermind\Mastermind\bin\Debug\net8.0\Mastermind.deps.json
+C:\Users\Agashae Premakumar\Documents\GitHub\Mastermind\Mastermind\Mastermind\bin\Debug\net8.0\Mastermind.runtimeconfig.json
+C:\Users\Agashae Premakumar\Documents\GitHub\Mastermind\Mastermind\Mastermind\bin\Debug\net8.0\Mastermind.dll
+C:\Users\Agashae Premakumar\Documents\GitHub\Mastermind\Mastermind\Mastermind\bin\Debug\net8.0\Mastermind.pdb
+C:\Users\Agashae Premakumar\Documents\GitHub\Mastermind\Mastermind\Mastermind\obj\Debug\net8.0\Mastermind.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Agashae Premakumar\Documents\GitHub\Mastermind\Mastermind\Mastermind\obj\Debug\net8.0\Mastermind.AssemblyInfoInputs.cache
+C:\Users\Agashae Premakumar\Documents\GitHub\Mastermind\Mastermind\Mastermind\obj\Debug\net8.0\Mastermind.AssemblyInfo.cs
+C:\Users\Agashae Premakumar\Documents\GitHub\Mastermind\Mastermind\Mastermind\obj\Debug\net8.0\Mastermind.csproj.CoreCompileInputs.cache
+C:\Users\Agashae Premakumar\Documents\GitHub\Mastermind\Mastermind\Mastermind\obj\Debug\net8.0\Mastermind.sourcelink.json
+C:\Users\Agashae Premakumar\Documents\GitHub\Mastermind\Mastermind\Mastermind\obj\Debug\net8.0\Mastermind.dll
+C:\Users\Agashae Premakumar\Documents\GitHub\Mastermind\Mastermind\Mastermind\obj\Debug\net8.0\refint\Mastermind.dll
+C:\Users\Agashae Premakumar\Documents\GitHub\Mastermind\Mastermind\Mastermind\obj\Debug\net8.0\Mastermind.pdb
+C:\Users\Agashae Premakumar\Documents\GitHub\Mastermind\Mastermind\Mastermind\obj\Debug\net8.0\Mastermind.genruntimeconfig.cache
+C:\Users\Agashae Premakumar\Documents\GitHub\Mastermind\Mastermind\Mastermind\obj\Debug\net8.0\ref\Mastermind.dll
